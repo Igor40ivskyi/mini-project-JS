@@ -1,0 +1,25 @@
+.keyDiv{
+    height: fit-content;
+    box-shadow: 4px 4px 3px black;
+    font-size: 25px;
+    font-family: Rockwell;
+    padding: 15px;
+}
+
+.comentsDiv{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.comentDiv {
+
+    width: 20%;
+    height: 160px;
+    box-shadow: 5px 5px 5px black;
+    margin: 25px;
+    font-family: Rockwell;
+    font-size: 20px;
+    padding: 10px;
+}
