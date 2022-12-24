@@ -1,28 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="19437f75-e9d6-41cd-b565-60e7ab917ee8" name="Changes" comment="" />
+    <list default="true" id="19437f75-e9d6-41cd-b565-60e7ab917ee8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/main-page/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/main-page/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/post-details-page/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/post-details-page/post-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/user-details-page/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/user-details-page/user-details.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2JDwYr1RW6Jir7Q6HW5JccuBIQn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\mini-project-JS\project\post-details-page" />
+      <recent name="C:\Users\Admin\IdeaProjects\mini-project-JS\project\user-details-page" />
+      <recent name="C:\Users\Admin\IdeaProjects\mini-project-JS\project\main-page" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +64,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671626012157</updated>
+      <workItem from="1671626013542" duration="7359000" />
+      <workItem from="1671644046019" duration="3676000" />
+      <workItem from="1671693424950" duration="4689000" />
+      <workItem from="1671699710284" duration="1078000" />
+      <workItem from="1671701186780" duration="622000" />
+      <workItem from="1671705797422" duration="46000" />
+      <workItem from="1671709051137" duration="4599000" />
+      <workItem from="1671713857646" duration="750000" />
+      <workItem from="1671780770079" duration="5201000" />
+      <workItem from="1671786073980" duration="639000" />
+      <workItem from="1671820619850" duration="985000" />
+      <workItem from="1671860576015" duration="574000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

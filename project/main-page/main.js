@@ -26,7 +26,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
             let a = document.createElement('a');
             userDiv.appendChild(a);
             a.innerText = `GET INFO ABOUT USER`;
-            a.href = `user-details.html?id=${user.id}`;
+            a.href = `../user-details-page/user-details.html?id=${user.id}`;
             a.target = 'blank';
             a.classList.add('a');
 

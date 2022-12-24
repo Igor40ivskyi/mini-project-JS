@@ -78,12 +78,12 @@ function getPosts() {
                 postDiv.innerText = `${post.title}`
                 postDiv.classList.add('postDiv');
 
-                let idd = (id - 1) + post.id;
+                let idd = post.id;
 
                 let a = document.createElement('a');
                 postDiv.appendChild(a);
                 a.innerText = 'post details';
-                a.href = `post-details.html?id=${idd}`;
+                a.href = `../post-details-page/post-details.html?id=${idd}`;
                 a.classList.add('aPostDetails')
             }
         });
