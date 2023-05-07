@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19437f75-e9d6-41cd-b565-60e7ab917ee8" name="Changes" comment="">
+    <list default="true" id="19437f75-e9d6-41cd-b565-60e7ab917ee8" name="Changes" comment="resolved bug">
+      <change afterPath="$PROJECT_DIR$/project/training/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/training/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/main-page/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/main-page/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/post-details-page/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/post-details-page/post-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/user-details-page/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/user-details-page/user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -43,10 +43,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/nest-bonus&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -75,8 +77,32 @@
       <workItem from="1671780770079" duration="5201000" />
       <workItem from="1671786073980" duration="639000" />
       <workItem from="1671820619850" duration="985000" />
-      <workItem from="1671860576015" duration="574000" />
+      <workItem from="1671860576015" duration="612000" />
+      <workItem from="1671874596681" duration="13000" />
+      <workItem from="1671899675889" duration="425000" />
+      <workItem from="1671900251116" duration="9000" />
+      <workItem from="1671900263321" duration="1000" />
+      <workItem from="1672049344272" duration="460000" />
+      <workItem from="1672082821310" duration="4000" />
+      <workItem from="1672230058919" duration="1421000" />
+      <workItem from="1672233247753" duration="3000" />
+      <workItem from="1673270332091" duration="105000" />
+      <workItem from="1674156244483" duration="101000" />
+      <workItem from="1676628380503" duration="8000" />
+      <workItem from="1676730245644" duration="1000" />
+      <workItem from="1677342651110" duration="2000" />
+      <workItem from="1677392810080" duration="123000" />
+      <workItem from="1681392244914" duration="499000" />
+      <workItem from="1683458143676" duration="324000" />
     </task>
+    <task id="LOCAL-00001" summary="resolved bug">
+      <created>1671861172430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671861172430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resolved bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolved bug" />
   </component>
 </project>
